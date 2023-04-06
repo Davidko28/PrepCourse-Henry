@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Este es un repositorio del modulo 2 del pre curso de Henry
+Este Documento es una prueba para cargar un prepositorio desde github a el escritorio con un repositorio
